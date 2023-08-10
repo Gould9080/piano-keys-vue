@@ -1,24 +1,7 @@
 # piano-keys-vue
 
-## Project setup
-```
-npm install
-```
+## Project scope
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Use vue to create a playing piano keyboard, utilizing components to generate the keys/keyboard
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Planning to add more functionality to the oscillator to mimic different keyboard sounds
