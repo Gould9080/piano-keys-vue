@@ -27,7 +27,7 @@ export default {
 }
 
 html {
-  background-color: bisque;
+  background-color: rgb(250, 240, 229);
 }
 
 body {
